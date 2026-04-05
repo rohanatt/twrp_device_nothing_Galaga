@@ -8,3 +8,5 @@ PRODUCT_NAME := twrp_Galaga
 PRODUCT_BRAND := Nothing
 PRODUCT_MODEL := A001
 PRODUCT_MANUFACTURER := Nothing
+
+PRODUCT_GMS_CLIENTID_BASE := android-nothing
